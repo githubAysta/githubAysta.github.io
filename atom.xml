@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://githubAysta.github.io</id>
+    <title>导航喵</title>
+    <updated>2022-12-14T09:14:27.228Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://githubAysta.github.io"/>
+    <link rel="self" href="https://githubAysta.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://githubAysta.github.io/images/avatar.png</logo>
+    <icon>https://githubAysta.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 导航喵</rights>
+</feed>
